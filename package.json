@@ -1,6 +1,6 @@
 {
-  "name": "@klw/fetch",
-  "description": "A very thin wrapper around the fetch api",
+  "name": "@klw/jwt",
+  "description": "A very thin wrapper around the jwt api",
   "version": "1.0.0",
   "author": {
     "name": "Karl Ludwig Weise",
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/karlludwigweise/fetch.git"
+    "url": "https://github.com/karlludwigweise/jwt.git"
   },
   "keywords": [
-    "fetch"
+    "jwt"
   ],
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -28,7 +28,7 @@
     "lib/**/*"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/karlludwigweise/fetch",
+  "homepage": "https://github.com/karlludwigweise/jwt",
   "devDependencies": {
     "@types/jest": "^26.0.16",
     "@types/jsonwebtoken": "^8.5.0",
