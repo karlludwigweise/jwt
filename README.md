@@ -1,4 +1,4 @@
-# fetch
+# jwt
 
 A very thin wrapper around the `jsonwebtoken` package with `useJwt()` for the front-end.
 
